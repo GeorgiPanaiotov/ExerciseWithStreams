@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\bin\Debug\netcoreapp3.1\StreamsFilesDirectories.exe
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\bin\Debug\netcoreapp3.1\StreamsFilesDirectories.deps.json
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\bin\Debug\netcoreapp3.1\StreamsFilesDirectories.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\bin\Debug\netcoreapp3.1\StreamsFilesDirectories.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\bin\Debug\netcoreapp3.1\StreamsFilesDirectories.dll
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\bin\Debug\netcoreapp3.1\StreamsFilesDirectories.pdb
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\obj\Debug\netcoreapp3.1\StreamsFilesDirectories.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\obj\Debug\netcoreapp3.1\StreamsFilesDirectories.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\obj\Debug\netcoreapp3.1\StreamsFilesDirectories.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\obj\Debug\netcoreapp3.1\StreamsFilesDirectories.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\obj\Debug\netcoreapp3.1\StreamsFilesDirectories.dll
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\obj\Debug\netcoreapp3.1\StreamsFilesDirectories.pdb
+C:\Users\ThinkPad\source\repos\StreamsFilesDirectories\StreamsFilesDirectories\obj\Debug\netcoreapp3.1\StreamsFilesDirectories.genruntimeconfig.cache
